@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1419990688 source:c:\users\ionut\desktop\grafica\main.cpp
-	<graphics.h>
-	<conio.h>
-	<iostream>
-	<algorithm>
-	<cmath>
-
